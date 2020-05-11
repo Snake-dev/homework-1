@@ -1,4 +1,3 @@
 <?php
-    include "tasks1-5.php";
-    include "tasks6-9.php";
-?>
+    require_once "tasks1-5.php";
+    require_once "tasks6-9.php";
